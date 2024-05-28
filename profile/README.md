@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/RXAvhRC.png" alt="TemplateMaxxing Banner" height="250" width="750" loading="lazy" />
+  <img src="https://i.imgur.com/RXAvhRC.png" alt="TemplateMaxxing Banner" loading="lazy" />
 </p>
 
 ---
