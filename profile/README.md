@@ -9,4 +9,4 @@ Production-ready, hand-made [templates](https://github.com/templatemaxxing) and 
 
 ### Available Templates
 
-- [Next.js 14 with Chakra-UI (Typescript App Directory)](https://github.com/templatemaxxing/nextjs-typescript-app-chakraui)
+- [Next.js 14 with Chakra-UI (Typescript App Directory)](https://github.com/templatemaxxing/nextjs14-chakraui-typescript-app)
